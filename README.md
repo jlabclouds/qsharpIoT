@@ -1,6 +1,7 @@
 **Apply this project to qsharp.sh generator script**
 
 # Quantum IoT Advanced Computing Platform
+- [Docs](https://ophelialabs.github.io/a/pages/quantum/#technologies)
 
 An enterprise-grade quantum computing framework integrating quantum algorithms, machine learning, and IoT edge computing. This project demonstrates cutting-edge applications in quantum-classical hybrid computing, with specialized implementations for medical imaging, robotics control, and advanced optimization.
 
